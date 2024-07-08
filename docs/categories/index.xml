@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Studio Tvär</title>
+    <link>https://studiotvar.diskstation.me:8443/categories/</link>
+    <description>Recent content in Categories on Studio Tvär</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Sun, 24 Dec 2023 11:40:36 +0100</lastBuildDate>
+    <atom:link href="https://studiotvar.diskstation.me:8443/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Semester</title>
+      <link>https://studiotvar.diskstation.me:8443/categories/semester/</link>
+      <pubDate>Sun, 24 Dec 2023 11:40:36 +0100</pubDate>
+      <guid>https://studiotvar.diskstation.me:8443/categories/semester/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Howto</title>
+      <link>https://studiotvar.diskstation.me:8443/categories/howto/</link>
+      <pubDate>Sat, 24 Dec 2022 15:53:04 +0100</pubDate>
+      <guid>https://studiotvar.diskstation.me:8443/categories/howto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Låtar</title>
+      <link>https://studiotvar.diskstation.me:8443/categories/l%C3%A5tar/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://studiotvar.diskstation.me:8443/categories/l%C3%A5tar/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

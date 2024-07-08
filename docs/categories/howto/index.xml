@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Howto on Studio Tvär</title>
+    <link>https://studiotvar.diskstation.me:8443/categories/howto/</link>
+    <description>Recent content in Howto on Studio Tvär</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Sat, 24 Dec 2022 15:53:04 +0100</lastBuildDate>
+    <atom:link href="https://studiotvar.diskstation.me:8443/categories/howto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HOWTO: Service på grafikkort</title>
+      <link>https://studiotvar.diskstation.me:8443/blog/2022/12/24/2022-howto-service-grafikkort/</link>
+      <pubDate>Sat, 24 Dec 2022 15:53:04 +0100</pubDate>
+      <guid>https://studiotvar.diskstation.me:8443/blog/2022/12/24/2022-howto-service-grafikkort/</guid>
+      <description>Mitt nu rätt gamla Powercolor Radeon RX 590 8GB Red Dragon hade en tendens att låta väldigt mycket när man spelade de enklaste spel. Så efter flytt och haft burken nedpackat ett tag upptäckte jag att problemen förvärrats ännu mer.&#xA;Nu krävdes det bara gajming så dök burken nu och då eller bara lät förfärligt med grafikkortsfläktarna på max. Råkade dessutom sammanfalla med rejält omarbetad drivare från AMD - så misstanken landade ju där först.</description>
+    </item>
+  </channel>
+</rss>
