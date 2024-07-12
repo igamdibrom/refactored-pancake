@@ -78,5 +78,12 @@
       <guid>https://zodin.net/categories/natur/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Recension</title>
+      <link>https://zodin.net/categories/recension/</link>
+      <pubDate>Wed, 06 May 2020 18:53:04 +0100</pubDate>
+      <guid>https://zodin.net/categories/recension/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
