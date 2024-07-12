@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cubase on Studio Tvär - gohugo.io</title>
+    <link>https://zodin.net/tags/cubase/</link>
+    <description>Recent content in Cubase on Studio Tvär - gohugo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Fri, 04 Mar 2022 17:53:04 +0100</lastBuildDate>
+    <atom:link href="https://zodin.net/tags/cubase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cubase Pro 11 grace period eligible to Cubase Pro 12!</title>
+      <link>https://zodin.net/blog/2022/03/04/2022-cubase-12-pro/</link>
+      <pubDate>Fri, 04 Mar 2022 17:53:04 +0100</pubDate>
+      <guid>https://zodin.net/blog/2022/03/04/2022-cubase-12-pro/</guid>
+      <description>Äntligen kom Cubase 12 PRO och nu gjorde dom sig av med elicensing dongeln!&#xA;Mest för att komma ihåg gör jag detta korta inlägg för hur jag gjorde min uppdatering.&#xA;Kollar i min ”eLicenser Control Center” att jag har licens för Cubase Pro 11. Kollar också mitt konto hos Steinberg (har Cubase Pro 11 ) och att det är aktiverat efter 9 november 2021. Kör en ”Maintenance” av min eLicenser (flera gånger då det misslyckas).</description>
+    </item>
+  </channel>
+</rss>
