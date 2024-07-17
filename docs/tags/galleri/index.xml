@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleri on Studio Tvär - gohugo.io</title>
+    <link>https://zodin.net/tags/galleri/</link>
+    <description>Recent content in Galleri on Studio Tvär - gohugo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Fri, 13 Jun 2014 12:53:04 +0100</lastBuildDate>
+    <atom:link href="https://zodin.net/tags/galleri/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bremön 2014</title>
+      <link>https://zodin.net/galleries/bremon-2014/</link>
+      <pubDate>Fri, 13 Jun 2014 12:53:04 +0100</pubDate>
+      <guid>https://zodin.net/galleries/bremon-2014/</guid>
+      <description>Bremön 2014 </description>
+    </item>
+  </channel>
+</rss>
