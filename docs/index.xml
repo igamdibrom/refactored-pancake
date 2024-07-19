@@ -4,7 +4,7 @@
     <title>Studio Tvär - gohugo.io</title>
     <link>https://zodin.net/</link>
     <description>Recent content on Studio Tvär - gohugo.io</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>sv-se</language>
     <lastBuildDate>Sun, 24 Dec 2023 11:40:36 +0100</lastBuildDate>
     <atom:link href="https://zodin.net/index.xml" rel="self" type="application/rss+xml" />
@@ -325,9 +325,9 @@
     </item>
     <item>
       <title>Galleri - Bremön 2014</title>
-      <link>https://zodin.net/galleries/bremon-2014/galleri-bremon-2014/</link>
+      <link>https://zodin.net/galleries/bremon-2014/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://zodin.net/galleries/bremon-2014/galleri-bremon-2014/</guid>
+      <guid>https://zodin.net/galleries/bremon-2014/</guid>
       <description>Bremön 2014 </description>
     </item>
     <item>
