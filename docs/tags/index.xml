@@ -421,5 +421,47 @@
       <guid>https://zodin.net/tags/konserthuset/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Betlehemskyrkan</title>
+      <link>https://zodin.net/tags/betlehemskyrkan/</link>
+      <pubDate>Sun, 14 Oct 2012 17:36:04 +0100</pubDate>
+      <guid>https://zodin.net/tags/betlehemskyrkan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gävle Gospel</title>
+      <link>https://zodin.net/tags/g%C3%A4vle-gospel/</link>
+      <pubDate>Sun, 14 Oct 2012 17:36:04 +0100</pubDate>
+      <guid>https://zodin.net/tags/g%C3%A4vle-gospel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fotomässa</title>
+      <link>https://zodin.net/tags/fotom%C3%A4ssa/</link>
+      <pubDate>Wed, 10 Oct 2012 17:13:04 +0100</pubDate>
+      <guid>https://zodin.net/tags/fotom%C3%A4ssa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Utställning</title>
+      <link>https://zodin.net/tags/utst%C3%A4llning/</link>
+      <pubDate>Wed, 10 Oct 2012 17:13:04 +0100</pubDate>
+      <guid>https://zodin.net/tags/utst%C3%A4llning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Astrid Domingo</title>
+      <link>https://zodin.net/tags/astrid-domingo/</link>
+      <pubDate>Mon, 08 Oct 2012 17:13:04 +0100</pubDate>
+      <guid>https://zodin.net/tags/astrid-domingo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Musikutbildning</title>
+      <link>https://zodin.net/tags/musikutbildning/</link>
+      <pubDate>Mon, 08 Oct 2012 17:13:04 +0100</pubDate>
+      <guid>https://zodin.net/tags/musikutbildning/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
