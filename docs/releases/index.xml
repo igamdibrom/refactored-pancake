@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Releases on Studio Tvär - gohugo.io</title>
+    <title>Releases on Studio Tvär</title>
     <link>https://zodin.net/releases/</link>
-    <description>Recent content in Releases on Studio Tvär - gohugo.io</description>
+    <description>Recent content in Releases on Studio Tvär</description>
     <generator>Hugo</generator>
     <language>sv-se</language>
     <lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate>
