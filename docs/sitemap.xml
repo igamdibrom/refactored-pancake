@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://zodin.net/</loc>
+    <lastmod>2024-09-22T16:00:13+02:00</lastmod>
+  </url><url>
     <loc>https://zodin.net/blog/</loc>
     <lastmod>2023-12-24T11:40:36+01:00</lastmod>
   </url><url>
@@ -15,9 +18,6 @@
     <lastmod>2023-12-24T11:40:36+01:00</lastmod>
   </url><url>
     <loc>https://zodin.net/categories/semester/</loc>
-    <lastmod>2023-12-24T11:40:36+01:00</lastmod>
-  </url><url>
-    <loc>https://zodin.net/</loc>
     <lastmod>2023-12-24T11:40:36+01:00</lastmod>
   </url><url>
     <loc>https://zodin.net/tags/</loc>
@@ -423,8 +423,6 @@
     <loc>https://zodin.net/galleries/favoriter/</loc>
   </url><url>
     <loc>https://zodin.net/galleries/pfloyd-2012/</loc>
-  </url><url>
-    <loc>https://zodin.net/galleries/</loc>
   </url><url>
     <loc>https://zodin.net/contact/</loc>
   </url>
