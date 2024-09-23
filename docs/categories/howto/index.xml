@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Howto on Studio Tvär</title>
-    <link>https://zodin.net/categories/howto/</link>
+    <link>https://studiotvar.se/categories/howto/</link>
     <description>Recent content in Howto on Studio Tvär</description>
     <generator>Hugo</generator>
     <language>sv-se</language>
     <lastBuildDate>Sat, 24 Dec 2022 15:53:04 +0100</lastBuildDate>
-    <atom:link href="https://zodin.net/categories/howto/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://studiotvar.se/categories/howto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HOWTO: Service på grafikkort</title>
-      <link>https://zodin.net/blog/2022/12/24/2022-howto-service-grafikkort/</link>
+      <link>https://studiotvar.se/blog/2022/12/24/2022-howto-service-grafikkort/</link>
       <pubDate>Sat, 24 Dec 2022 15:53:04 +0100</pubDate>
-      <guid>https://zodin.net/blog/2022/12/24/2022-howto-service-grafikkort/</guid>
+      <guid>https://studiotvar.se/blog/2022/12/24/2022-howto-service-grafikkort/</guid>
       <description>Mitt nu rätt gamla Powercolor Radeon RX 590 8GB Red Dragon hade en tendens att låta väldigt mycket när man spelade de enklaste spel. Så efter flytt och haft burken nedpackat ett tag upptäckte jag att problemen förvärrats ännu mer.&#xA;Nu krävdes det bara gajming så dök burken nu och då eller bara lät förfärligt med grafikkortsfläktarna på max. Råkade dessutom sammanfalla med rejält omarbetad drivare från AMD - så misstanken landade ju där först.</description>
     </item>
     <item>
       <title>Wow! Testar ett Air Pod hack..</title>
-      <link>https://zodin.net/blog/2022/09/26/2020-airpod-hack/</link>
+      <link>https://studiotvar.se/blog/2022/09/26/2020-airpod-hack/</link>
       <pubDate>Mon, 26 Sep 2022 19:53:04 +0100</pubDate>
-      <guid>https://zodin.net/blog/2022/09/26/2020-airpod-hack/</guid>
+      <guid>https://studiotvar.se/blog/2022/09/26/2020-airpod-hack/</guid>
       <description>Mitt första par Air Pods hade ett hårt liv. Riktigt hårt. Brukade dom mer eller mindre dagligen till och från jobbet samt på jobbet för att hamna lite i en egen värld där i kontorslandskapet. Lyckades också tappa dom engång på en Ica Maxi-parkering där dom blev överkörda minst en gång – men jag fick igen dom! Har slipat betonggolv i ett helt radhus med dom i skallen för att stå ut med monotona jobbet (med hörselkåpor utanpå, tack för underhållningen Billy Opel!</description>
     </item>
     <item>
       <title>Kabelförvaringstrix!</title>
-      <link>https://zodin.net/blog/2022/04/12/2022-kabelforvarningstrix/</link>
+      <link>https://studiotvar.se/blog/2022/04/12/2022-kabelforvarningstrix/</link>
       <pubDate>Tue, 12 Apr 2022 15:53:04 +0100</pubDate>
-      <guid>https://zodin.net/blog/2022/04/12/2022-kabelforvarningstrix/</guid>
+      <guid>https://studiotvar.se/blog/2022/04/12/2022-kabelforvarningstrix/</guid>
       <description>Såg det nog för lääääänge sedan på internet nånstans men idag har det varit lite röjning och även jag tog och testade trixet! Får säga att det faktiskt funkar riktigt bra! Kommer bli enklare att hitta dom udda konverterarna när man ska leka i lilla hemmastudion och behöver nån konstig koppling till nått… 🙂&#xA;Jag har alltså kapat upp ett papprör som förmodligen haft en vaxduk eller liknande runt sig samt kompletterat med lite vanliga toarullar.</description>
     </item>
     <item>
       <title>Cubase Pro 11 grace period eligible to Cubase Pro 12!</title>
-      <link>https://zodin.net/blog/2022/03/04/2022-cubase-12-pro/</link>
+      <link>https://studiotvar.se/blog/2022/03/04/2022-cubase-12-pro/</link>
       <pubDate>Fri, 04 Mar 2022 17:53:04 +0100</pubDate>
-      <guid>https://zodin.net/blog/2022/03/04/2022-cubase-12-pro/</guid>
+      <guid>https://studiotvar.se/blog/2022/03/04/2022-cubase-12-pro/</guid>
       <description>Äntligen kom Cubase 12 PRO och nu gjorde dom sig av med elicensing dongeln!&#xA;Mest för att komma ihåg gör jag detta korta inlägg för hur jag gjorde min uppdatering.&#xA;Kollar i min ”eLicenser Control Center” att jag har licens för Cubase Pro 11. Kollar också mitt konto hos Steinberg (har Cubase Pro 11 ) och att det är aktiverat efter 9 november 2021. Kör en ”Maintenance” av min eLicenser (flera gånger då det misslyckas).</description>
     </item>
     <item>
       <title>HOWTO: Batteribyte macbook pro mid 2014!</title>
-      <link>https://zodin.net/blog/2021/07/14/2021-batteribyte-macbook-pro-mid-2014/</link>
+      <link>https://studiotvar.se/blog/2021/07/14/2021-batteribyte-macbook-pro-mid-2014/</link>
       <pubDate>Wed, 14 Jul 2021 17:53:04 +0100</pubDate>
-      <guid>https://zodin.net/blog/2021/07/14/2021-batteribyte-macbook-pro-mid-2014/</guid>
+      <guid>https://studiotvar.se/blog/2021/07/14/2021-batteribyte-macbook-pro-mid-2014/</guid>
       <description>Brukar skruva isär min gamla trogna MacBook Pro (modell Mid-2014) åtminstone en gång per år och städa den från damm. Den blir oftast rejält mindre varm och går också mycket tystare av lite dammsugning av fläktar innuti.&#xA;Plockade som vanligt fram mitt pålitliga kit från ifixit.com och lättade på locket (nåja botten om man ska vara petig).&#xA;Som synes är både bottenplattan och dom två fläktarna rätt dammiga. Fram med lilla dammsugaren och försiktigt göra rent!</description>
     </item>
     <item>
       <title>Renovering av gammal gitarr!</title>
-      <link>https://zodin.net/blog/2020/08/16/2020-renovering-av-gammal-gitarr/</link>
+      <link>https://studiotvar.se/blog/2020/08/16/2020-renovering-av-gammal-gitarr/</link>
       <pubDate>Sun, 16 Aug 2020 20:53:04 +0100</pubDate>
-      <guid>https://zodin.net/blog/2020/08/16/2020-renovering-av-gammal-gitarr/</guid>
+      <guid>https://studiotvar.se/blog/2020/08/16/2020-renovering-av-gammal-gitarr/</guid>
       <description>Fick en gammal gitarr som stått för sig själv i nått hörn i många många herrans år. Hann bara försöka stämma den så small en av dom riktigt risiga strängarna av. Bara å beställa hem nya strängar då mitt lager sinat totalt.&#xA;Blev thomann som fick stå för leveransen då vi inte har nått bra alternativ längre lokalt i Gävle. Transporten gick som vanligt snabbt till Sverige och blev sen rätt osynlig innan jag plötsligt kunde beställa att få paketet lämnat på vanliga utlämningsstället istället för att dom ska ”försöka leverera till dörren” (brukar ju aldrig funka).</description>
     </item>
     <item>
       <title>MacGyver-mode i värmen!</title>
-      <link>https://zodin.net/blog/2020/06/22/2020-macgyver-mode-i-varmen/</link>
+      <link>https://studiotvar.se/blog/2020/06/22/2020-macgyver-mode-i-varmen/</link>
       <pubDate>Mon, 22 Jun 2020 10:53:04 +0100</pubDate>
-      <guid>https://zodin.net/blog/2020/06/22/2020-macgyver-mode-i-varmen/</guid>
+      <guid>https://studiotvar.se/blog/2020/06/22/2020-macgyver-mode-i-varmen/</guid>
       <description>Två riktigt varma dagar på raken och kolla lite i lådor och tog hjälp av en gammal pc-fläkt, en riktigt gammal mobilladdare, en gammal flingkartong, en blomlåda för balkong samt två frysklampar och lite vatten! Krävdes bara en liten sockerbit för koppling och en sax att klippa i flingkartongen sen var det klart!&#xA;Några isklampar i en blomlåda! Ett uppklippt flingpaket som täckning Temperatur före: Temperatur efter: Jag får erkänna att det inte kyler med speciellt många BTU men rätt skönt att ha den blåsandes på fötterna!</description>
     </item>
     <item>
       <title>Reparatören Sören vs GoPro HD Hero3</title>
-      <link>https://zodin.net/blog/2015/04/11/2015-reparatoren-soren-vs-gopro-hd-hero3/</link>
+      <link>https://studiotvar.se/blog/2015/04/11/2015-reparatoren-soren-vs-gopro-hd-hero3/</link>
       <pubDate>Sat, 11 Apr 2015 12:53:04 +0100</pubDate>
-      <guid>https://zodin.net/blog/2015/04/11/2015-reparatoren-soren-vs-gopro-hd-hero3/</guid>
+      <guid>https://studiotvar.se/blog/2015/04/11/2015-reparatoren-soren-vs-gopro-hd-hero3/</guid>
       <description>Roat (?) mig här i veckan med att ge mig på att reparera en GoPro-kamera som fått en ”körnare” nästan mitt i linsen efter en rejäl krasch i backen! Jösses så pilligt men onekligen spännande!&#xA;Vad var klurigast då? Ja man lär ju hitta reservlins av rätt sort vilket var en förvirrande resa. Sen lär man sluta vänta på att det ska bli billigare någon gång när det är VÅR svenska krona som ramlar nedåt mot andra valutor.</description>
     </item>
     <item>
       <title>Glad påsk!</title>
-      <link>https://zodin.net/blog/2015/04/02/2015-glad-pask/</link>
+      <link>https://studiotvar.se/blog/2015/04/02/2015-glad-pask/</link>
       <pubDate>Thu, 02 Apr 2015 17:53:04 +0100</pubDate>
-      <guid>https://zodin.net/blog/2015/04/02/2015-glad-pask/</guid>
+      <guid>https://studiotvar.se/blog/2015/04/02/2015-glad-pask/</guid>
       <description>Vill så klart önska alla och envar en riktigt trevlig och glad påsk! För er som känner er lite osäker på själva kvastandet så kommer här en enkel HowTo-guide! 😉</description>
     </item>
   </channel>
